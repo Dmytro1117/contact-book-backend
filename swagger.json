@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://contact-book-backend-hgw7.onrender.com"
+      "url": "https://contact-book-backend-hgw7.onrender.com/api"
     }
   ],
   "paths": {
